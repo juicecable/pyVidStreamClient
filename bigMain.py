@@ -1,4 +1,4 @@
-#Copyright (c) 2020 UofRobotics
+#Copyright (c) 2020 Derek Frombach
 
 #Python Video Streaming Client with MJPEG decoder
 #Compatible with almost every TCP MJPEG server
